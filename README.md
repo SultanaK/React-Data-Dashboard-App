@@ -17,9 +17,6 @@
 - [Sign Up](https://material-kit-react.devias.io/auth/sign-up)
 - [Reset Password](https://material-kit-react.devias.io/auth/reset-password)
 
-## Free Figma Community File
-
-- [Duplicate File](https://www.figma.com/file/b3L1Np4RYiicZAOMopHNkm/Devias-Dashboard-Design-Library-Kit)
 
 ## Quick start
 
