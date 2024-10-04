@@ -8,7 +8,7 @@
 
 ## Pages 
 
-- [Dashboard](https://material-kit-react.devias.io)
+- [Dashboard](https://github.com/SultanaK/NextJs-Dashboard/blob/main/public/assets/dashboard.png)
 - [Customers](https://material-kit-react.devias.io/dashboard/customers)
 - [Integrations](https://material-kit-react.devias.io/dashboard/integrations)
 - [Settings](https://material-kit-react.devias.io/dashboard/settings)
