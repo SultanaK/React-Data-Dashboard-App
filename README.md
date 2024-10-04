@@ -1,6 +1,6 @@
 ## [React-Data-Dashboard-App](https://material-kit-react.devias.io/)
 
-> Free React Admin Dashboard made with [MUI's](https://mui.com) components, [React](https://reactjs.org) and of course [Next.js](https://github.com/vercel/next.js) to boost your app development process!
+>Free React [React](https://reactjs.org) Admin Dashboard built with reusable components [MUI's](https://mui.com) and modern features to accelerate app development process! 
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
