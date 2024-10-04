@@ -1,10 +1,11 @@
 ## [React-Data-Dashboard-App](https://material-kit-react.devias.io/)
 
+> Free React Admin Dashboard made with [MUI's](https://mui.com) components, [React](https://reactjs.org) and of course [Next.js](https://github.com/vercel/next.js) to boost your app development process!
+
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 [![Devias Kit - React](https://github.com/SultanaK/React-Data-Dashboard-App/blob/master/public/assets/dashboard.png)](https://material-kit-react.devias.io/)
 
-> Free React Admin Dashboard made with [MUI's](https://mui.com) components, [React](https://reactjs.org) and of course [Next.js](https://github.com/vercel/next.js) to boost your app development process!
 
 ## Pages 
 
